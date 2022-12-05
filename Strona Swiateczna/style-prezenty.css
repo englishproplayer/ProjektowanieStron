@@ -1,0 +1,17 @@
+button {
+    width: 120px;
+    height: 50px;
+    text-align: center;
+    background: transparent;
+    margin-top: 25px;
+    margin-left: 220px;
+    color: white;
+    font-size: 20px;
+    font-family: Calibri;
+    text-decoration: white;
+
+}
+
+button:hover {
+    background: linear-gradient(90deg, rgb(0,200,200,100) 0%, rgb(30,30,230,100) 50%, rgb(0,200,200,100) 100%);
+}

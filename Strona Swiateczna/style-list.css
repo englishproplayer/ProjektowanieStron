@@ -1,4 +1,4 @@
-button {
+button, #submit {
     width: 120px;
     height: 50px;
     text-align: center;
@@ -15,7 +15,7 @@ button {
     color: white;
 }
 
-.styles:hover {
+.styles:hover, #submit:hover{
     transform: translateY(-4px);
     box-shadow: pink 1px 1px 20px 10px;
     color: hotpink;
@@ -48,7 +48,7 @@ header {
 body {
     margin-left: auto;
     margin-right: auto;
-    background-image: url("wp4586991.jpg");
+    background-image: url("winter-snow-nature-4k-ej (1).jpg");
     text-align: center;
     background-position: center;
     background-repeat: repeat;
@@ -60,30 +60,23 @@ h1 {
     color: pink;
 }
 
-table, th, td {
-    border: 1px solid white;
-    color: white;
-    margin-left: auto;
+input {
+    margin: 5px;
+}
+
+#formularz {
+    width: 500px;
+    margin-top: 50px;
     margin-right: auto;
-    margin-top: 20px;
-}
-
-img {
-    width: 200px;
-    height: 200px;
-}
-
-input[type=button] {
-    background: linear-gradient(to bottom, #ff9933 0%, #ff6666 100%);
-    border: none;
+    margin-left: auto;
     color: white;
-    padding: 16px 32px;
-    text-decoration: none;
-    margin: 4px 2px;
-    cursor: pointer;
 }
 
-td {
-    font-size: 40px;
-    font-family: "Comic Sans MS";
+#form {
+    background-color: rgb(0,0,0,0.8);
+    color: white;
+}
+
+p {
+    color: white;
 }

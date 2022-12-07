@@ -23,13 +23,13 @@ button {
 }
 
 .menu {
-    background-color: rgba(220,150,0, 0.5);
+    background-color: rgba(140,140,140,0.5);
     width: 40%;
     margin: auto;
 }
 
 header {
-    background: linear-gradient(90deg, rgba(155,0,0,1) 0%, rgba(220,150,0,1) 25%, rgba(220,150,0,1) 50%, rgba(220,150,0,1) 75%, rgba(155,0,0,1) 100%);
+    background: linear-gradient(90deg, rgba(50,50,50,1) 0%, rgba(140,140,140,1) 25%, rgba(140,140,140,1) 50%, rgba(140,140,140,1) 75%, rgba(50,50,50,1) 100%);
     color: white;
     font-family: Calibri;
     text-align: center;
@@ -38,7 +38,7 @@ header {
     padding: 0px;
     float: left;
     width: 100%;
-    box-shadow: orange 1px 1px 20px 2px;
+    box-shadow: gray 1px 1px 20px 2px;
 }
 
 * {

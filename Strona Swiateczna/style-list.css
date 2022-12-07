@@ -23,13 +23,13 @@ button, #submit {
 }
 
 .menu {
-    background-color: rgba(220,150,0, 0.5);
+    background-color: rgba(0,0,255,0.5);
     width: 40%;
     margin: auto;
 }
 
 header {
-    background: linear-gradient(90deg, rgba(155,0,0,1) 0%, rgba(220,150,0,1) 25%, rgba(220,150,0,1) 50%, rgba(220,150,0,1) 75%, rgba(155,0,0,1) 100%);
+    background: linear-gradient(90deg, rgba(0,200,255,1) 0%, rgba(0,0,255,1) 25%, rgba(0,0,255,1) 50%, rgba(0,0,255,1) 75%, rgba(0,200,255,1) 100%);
     color: white;
     font-family: Calibri;
     text-align: center;
@@ -38,7 +38,7 @@ header {
     padding: 0px;
     float: left;
     width: 100%;
-    box-shadow: orange 1px 1px 20px 2px;
+    box-shadow: blue 1px 1px 20px 2px;
 }
 
 * {
@@ -48,7 +48,7 @@ header {
 body {
     margin-left: auto;
     margin-right: auto;
-    background-image: url("winter-snow-nature-4k-ej (1).jpg");
+    background-image: url("https://images.hdqwalls.com/wallpapers/bthumb/winter-snow-nature-4k-ej.jpg");
     text-align: center;
     background-position: center;
     background-repeat: repeat;
